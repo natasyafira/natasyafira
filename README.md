@@ -1,28 +1,27 @@
-## Hellooo!! I'm Natasya Safira 👋
+# Hellooo!! I'm Natasya Safira 👋
+## 📱 Laporan Praktikum Pemrograman Mobile
 
-<!--
-**natasyafira/natasyafira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+NIM saya 230605110091 dari Kelas Praktikum Pemrograman Mobile (C), mahasiswa Informatika Angkatan 2023.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Repository ini berisi tugas praktikum pemograman mobile yang terdiri dari laporan praktikum dan kode program.
 
-- 🔭 I’m currently studyin on Universitas Islam Negeri Maulana Malik Ibrahim Malang
+---
 
-- 🌱 I’m currently learning: Data Structures, Web Programming with Laragon, Flutter, and Mobile Development
+## ✨ Profil
+- 👩 Nama: **Natasya Safira Rahmadianti**  
+- 🆔 NIM: **230605110091**  
+- 🏫 Kelas: **Praktikum Pemrograman Mobile (C)**  
+- 💻 Program Studi: **Informatika 2023**
 
-- 🤔 I’m looking for help with: Improving debugging skills and understanding advanced programming concepts
+---
 
-- 📫 How to reach me: natasyafir15@gmail.com
+## 📂 Daftar Praktikum
 
-- 😄 Pronouns: She/Her
+| No | Tanggal    | Praktikum | Topik                                      | Laporan                          | Repositori              |
+|----|------------|-----------|--------------------------------------------|----------------------------------|-------------------------|
+| 1  | 03-09-2025 | 01        | Pengenalan Mobile Programming dan Setup Lingkungan | [📄 Modul 01](https://docs.google.com/document/d/1n2-9OMJf8wNrTuiDWphPqOBGvUaJKWGgtsrubFMcp6Y/edit?usp=sharing) | [🔗 Repo 01](https://github.com/username/repo01) |
 
-- ⚡ Fun fact: I enjoy exploring new tech stacks while balancing my studies in Informatics Engineering
+
+---
+
