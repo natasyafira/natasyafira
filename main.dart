@@ -12,11 +12,11 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       home: Scaffold(
         appBar: AppBar(
-          title: const Text("Praktikum Flutter"),
+          title: const Text("Program Pertamaku"),
         ),
         body: const Center(
           child: Text(
-            "Hello World",
+            "Natasya Safira Rahmadianti",
             style: TextStyle(fontSize: 24),
           ),
         ),
@@ -24,3 +24,4 @@ class MyApp extends StatelessWidget {
     );
   }
 }
+
