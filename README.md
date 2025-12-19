@@ -24,6 +24,7 @@ Repository ini berisi tugas praktikum pemograman mobile yang terdiri dari lapora
 | 2  | 1 | 01        | Desain UI Aplikasi Prakiraan Cuaca dengan Layout Row dan Column| [📄 Modul 02 ](https://docs.google.com/document/d/1hU1csUhRfjN57TXplqj4mTdIB5bbPtOCje1kG1eZlyQ/edit?usp=sharing) | [🔗 Code Modul 02 ](https://github.com/natasyafira/natasyafira/blob/cdb8d6e847ce467801e1c9e38bf117795a08c6ff/mainmodul2.dart) |
 | 3  | 2 | 02 | Pengaturan Layout Row dan Column di Flutter | 
 | 4  | 2 | 02 | Widget Flexible dan Expanded                |
+  5    3   03   Widget SizedBox, Spacer, dan Card
 
 ---
 
