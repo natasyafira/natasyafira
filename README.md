@@ -31,7 +31,7 @@ Repository ini berisi tugas praktikum pemograman mobile yang terdiri dari lapora
 | 9 | 5 | 05 | StatefulWidget |
 | 10 | 6 | 06 | Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter |
 | 11 | 7 | 07 | Manajemen State dengan GetX |
-| 12 | 9 | 09 | Akses Lokasi dengan GPS di Flutter | [Modul 12](https://docs.google.com/document/d/1RZWdW7Npulv4yT2mfjzCHdEnINCdBb0je7D6nDQX350/edit?usp=sharing) |
+| 12 | 9 | 09 | Akses Lokasi dengan GPS di Flutter | [Modul 12](https://docs.google.com/document/d/1RZWdW7Npulv4yT2mfjzCHdEnINCdBb0je7D6nDQX350/edit?usp=sharing) | [Code Modul 12](https://github.com/natasyafira/natasyafira/blob/main/mainmodul12) |
 | 13 | 10 | 10 | Operasi CRUD (Create, Read, Update, Delete) di Flutter dengan REST API |
 
 
